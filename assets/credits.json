@@ -1,0 +1,21 @@
+{
+  "hero-sonrisa.jpg": {
+    "source": "Unsplash",
+    "photographer": "Tony Litvyak",
+    "photographer_url": "https://unsplash.com/@justatony",
+    "photo_url": "https://unsplash.com/es/fotos/un-primer-plano-de-la-boca-de-una-mujer-con-dientes-blancos-glPVwPr1FKo",
+    "license": "Unsplash License (free for commercial use)"
+  },
+  "clinica-recepcion.jpg": {
+    "source": "Google Maps listing photo (real, uploaded by the business)",
+    "license": "Client's own real photo"
+  },
+  "clinica-consultorio.jpg": {
+    "source": "Google Maps listing photo (real, uploaded by the business)",
+    "license": "Client's own real photo"
+  },
+  "clinica-fachada.jpg": {
+    "source": "Google Maps listing photo (real, uploaded by the business)",
+    "license": "Client's own real photo"
+  }
+}
